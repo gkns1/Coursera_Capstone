@@ -1,4 +1,3 @@
 # Coursera_Capstone
-Course assignment
-Work In Progress.
+Course assignment \n
 Analysis cluster results are currently outdated.
