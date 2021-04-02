@@ -1,3 +1,4 @@
 # Coursera_Capstone
-Course assignment \n
+Course assignment
+
 Analysis cluster results are currently outdated.
